@@ -1,0 +1,20 @@
+body {
+  margin: 50px;
+  font-family: "Arial Narrow",sans-serif;
+}
+
+img {
+  padding: 5px;
+}
+
+h1 {
+  font-family: "Arial Narrow",sans-serif;
+}
+
+h4 {
+  margin-top: 0px;
+}
+
+#info {
+  font-size: 18px;
+}
